@@ -181,5 +181,3 @@ What needs to be submitted (via GitHub):
 	* Screen shots showing each of the commands listed above
 * 	Your volume file (limit 10MB)
 *  There will also be an INDIVIDUAL report (form) to complete.
-#   C S C - 4 1 5 - O p e r a t i n g - S y s t e m s - F i l e s y s t e m - P r o j e c t  
- 
